@@ -1,0 +1,8 @@
+.pricing,.qer{
+    padding: 5px;
+}
+
+.qer{
+    display: flex;
+    column-gap: 3px;
+}

@@ -1,0 +1,11 @@
+.idk{
+ margin-inline: 400px;
+ margin-top: 150px;
+ text-align: center;
+ font-size: 100px;
+ font-weight: 450;
+ -webkit-text-stroke: 1px black; 
+  text-shadow: 2px 2px 4px paleturquoise;
+  margin-bottom: 0px;
+  height: 600px;
+}

@@ -1,0 +1,65 @@
+.container {
+    max-width: 1120px;
+    margin-inline: 1.5rem;
+  }
+  
+  .about {
+    margin: 50px;
+  }
+  
+  .row1 {
+    margin: 0 -5px;
+  }
+  
+  .column1 {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-radius: .5rem;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card1:hover {
+    transform: translateY(-15px);
+  }
+  
+  .card1:hover {
+    outline: 0.2rem solid hsla(230, 75%, 32%, .15);
+    outline-offset: 0;
+  }
+  
+  .abc {
+    font-size: 52px;
+    cursor: pointer;
+    transition: color .4s;
+  }
+  
+  .abc:hover {
+    color: rosybrown;
+  }
+  
+  .hed {
+    margin: 20px;
+    cursor: pointer;
+    transition: color .4s;
+  }
+  
+  .abt {
+    transition: color;
+  }
+  
+  .abt:hover {
+    color: rosybrown;
+  }
+  
+  .para {
+    cursor: pointer;
+  }
+  

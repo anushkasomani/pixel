@@ -1,0 +1,18 @@
+.head{
+    text-align: center;
+}
+
+.art{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 200px;
+    
+}
+
+.column{
+   
+    margin: 10px;
+    padding: 5px;
+    
+    border-radius: 2rem;
+}
